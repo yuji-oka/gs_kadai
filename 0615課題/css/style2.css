@@ -1,0 +1,28 @@
+.data{
+    color: black;
+    height: 48px;
+
+}
+.container > table{
+    width: 100%;
+    margin:0 auto;
+}
+
+
+.common{
+    width: 20%;
+}
+.comment{
+    width: 40%;
+}
+.data2{
+    border: 1px solid black;
+     word-break: break-all;
+}
+
+
+
+.userbtn{
+   float: right;
+    
+}
