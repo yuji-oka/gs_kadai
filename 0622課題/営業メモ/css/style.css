@@ -1,0 +1,19 @@
+.data{
+    color: black;
+    height: 48px;
+}
+.container > table{
+    width: 60%;
+    margin:0 auto;
+}
+
+#t-header{
+    background-color: aquamarine;
+    border: 1px solid black;
+    
+}
+
+.data2{
+    border: 1px solid black;
+    
+}

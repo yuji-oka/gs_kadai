@@ -1,0 +1,20 @@
+.mainvis{
+/*    width: 60%;*/
+/*    margin:0 auto;*/
+
+    
+    padding: 30px 15px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #eeeeee;
+
+}
+
+fieldset {
+    text-align: center;
+}
+
+.userbtn{
+   float: right;
+    
+}
